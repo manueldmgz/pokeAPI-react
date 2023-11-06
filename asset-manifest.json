@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/pokeapi-react/static/css/main.f855e6bc.css",
-    "main.js": "/pokeapi-react/static/js/main.5066606c.js",
+    "main.css": "/pokeapi-react/static/css/main.1bc7868d.css",
+    "main.js": "/pokeapi-react/static/js/main.7caf4f73.js",
     "static/js/787.7e4437b5.chunk.js": "/pokeapi-react/static/js/787.7e4437b5.chunk.js",
     "index.html": "/pokeapi-react/index.html",
-    "main.f855e6bc.css.map": "/pokeapi-react/static/css/main.f855e6bc.css.map",
-    "main.5066606c.js.map": "/pokeapi-react/static/js/main.5066606c.js.map",
+    "main.1bc7868d.css.map": "/pokeapi-react/static/css/main.1bc7868d.css.map",
+    "main.7caf4f73.js.map": "/pokeapi-react/static/js/main.7caf4f73.js.map",
     "787.7e4437b5.chunk.js.map": "/pokeapi-react/static/js/787.7e4437b5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.5066606c.js"
+    "static/css/main.1bc7868d.css",
+    "static/js/main.7caf4f73.js"
   ]
 }
